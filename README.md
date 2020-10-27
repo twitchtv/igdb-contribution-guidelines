@@ -1,0 +1,1 @@
+# igdb-contribution-guidelines
